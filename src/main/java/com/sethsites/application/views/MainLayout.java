@@ -1,9 +1,9 @@
-package com.example.application.views;
+package com.sethsites.application.views;
 
-import com.example.application.data.User;
-import com.example.application.security.AuthenticatedUser;
-import com.example.application.views.adminview.AdminViewView;
-import com.example.application.views.helloworld.HelloWorldView;
+import com.sethsites.application.data.User;
+import com.sethsites.application.security.AuthenticatedUser;
+import com.sethsites.application.views.adminview.AdminViewView;
+import com.sethsites.application.views.helloworld.HelloWorldView;
 import com.vaadin.flow.component.applayout.AppLayout;
 import com.vaadin.flow.component.applayout.DrawerToggle;
 import com.vaadin.flow.component.avatar.Avatar;

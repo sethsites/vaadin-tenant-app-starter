@@ -1,6 +1,6 @@
-package com.example.application;
+package com.sethsites.application;
 
-import com.example.application.data.SamplePersonRepository;
+import com.sethsites.application.data.SamplePersonRepository;
 import com.vaadin.flow.component.dependency.NpmPackage;
 import com.vaadin.flow.component.page.AppShellConfigurator;
 import com.vaadin.flow.theme.Theme;

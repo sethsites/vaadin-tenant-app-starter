@@ -1,4 +1,4 @@
-package com.example.application.data;
+package com.sethsites.application.data;
 
 import jakarta.persistence.Entity;
 import jakarta.validation.constraints.Email;

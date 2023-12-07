@@ -1,6 +1,6 @@
-package com.example.application.views.login;
+package com.sethsites.application.views.login;
 
-import com.example.application.security.AuthenticatedUser;
+import com.sethsites.application.security.AuthenticatedUser;
 import com.vaadin.flow.component.login.LoginI18n;
 import com.vaadin.flow.component.login.LoginOverlay;
 import com.vaadin.flow.router.BeforeEnterEvent;

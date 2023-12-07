@@ -1,6 +1,6 @@
-package com.example.application.views.adminview;
+package com.sethsites.application.views.adminview;
 
-import com.example.application.views.MainLayout;
+import com.sethsites.application.views.MainLayout;
 import com.vaadin.flow.component.Composite;
 import com.vaadin.flow.component.Text;
 import com.vaadin.flow.component.dependency.Uses;

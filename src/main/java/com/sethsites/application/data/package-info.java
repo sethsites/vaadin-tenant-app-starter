@@ -1,4 +1,4 @@
 @NonNullApi
-package com.example.application.services;
+package com.sethsites.application.data;
 
 import org.springframework.lang.NonNullApi;
