@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/project/7930d625-74be-40d1-9424-3adf10f7f3e3 -->
-    <groupId>com.example.application</groupId>
+    <groupId>com.sethsites.application</groupId>
     <artifactId>vaadin-tenant-app-starter</artifactId>
     <name>vaadin-tenant-app-starter</name>
     <version>1.0-SNAPSHOT</version>
